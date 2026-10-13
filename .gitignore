@@ -11,3 +11,7 @@ npm-debug.*
 *.orig.*
 .DS_Store
 *.log
+
+# Variables de entorno (contienen las llaves de Supabase)
+.env
+.env.local
